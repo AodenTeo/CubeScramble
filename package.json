@@ -1,0 +1,15 @@
+{
+  "name": "cubescramble",
+  "version": "1.0.0",
+  "description": "This is a web app which monitors scramblers and alerts them when they are mis-scrambling, and it also allows live reconstructions from videos of solves.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aoden Teo Masa Toshi",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}
